@@ -46,8 +46,7 @@ Website is under construction. <br/>
 ### Dashboard | Enter Marks 
 <img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot04.PNG">
 
-### Student Marks 
-<img src="https://github.com/Govind155/Student-Result-Management-System/blob/master/images/screenshot05.PNG">
+
 
  
 
